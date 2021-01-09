@@ -1,4 +1,6 @@
 #!usr/bin/python
+#punya nya Gabriel.S
+#jangan direcode cuk
 import requests, os,sys
 clear
 
@@ -28,6 +30,9 @@ os.system('pip2 install requests')
 os.system('clear')  
 os.system('sh nonton.sh')
 
+os.system('toilet -f standard -F gay "MyToolsv2"
+os.system('sleep 2')
+os.system('clear') 
 print('''-=[ MyTools ]=-
 
      [Menu]
